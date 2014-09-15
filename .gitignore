@@ -1,4 +1,5 @@
 # Ignore cache
+src/.sass-cache
 /.sass-cache
 /.cache
 # Ignore .DS_store file
